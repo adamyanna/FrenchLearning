@@ -5,6 +5,22 @@ French Learning Roadmap &amp; Everything
 
 ## I - Keyboard Choice
 
+### CA Canadian - Mac
+
+![](./assets/CA_French_Keyboard_Layout.png)
+
+| Character | How to Type | Location                             |
+| --------- | ----------- | ------------------------------------ |
+| **é**     | `é`         | Located in the lower right corner `` |
+| **è**     | `` + e` = è | Located in the right side ``         |
+| **ê**     | `^ + e` = ê | Located in the right side ``         |
+| **à**     | `` + a` = à | Located in the right side ``         |
+| **â**     | `^ + a` = â | Located in the right side ``         |
+| **ç**     | `¸ + c` = ç | Located in the right side ``         |
+| **ô**     | `^ + o` = ô |                                      |
+| **ù**     | `` + u` = ù |                                      |
+| **ë**     |             |                                      |
+
 ### CA Canadian – PC
 
 #### 🇨🇦 Canadian – PC Keyboard: French Accents & Symbols Cheat Sheet
