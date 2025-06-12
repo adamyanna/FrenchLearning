@@ -61,5 +61,27 @@ French Learning Roadmap &amp; Everything
 
 ## II - Roadmap & Timeline Breakdown
 
+### [Method]
 
+#### I - Content
+
+- **Content** of 2 ~ 5 min video clips
+
+#### II - Looping Action
+
+* **Pre-analyze && Vocabulary Management && Looping 0.6 && Looping 0.8 && Looping 1.0**
+
+#### III - Extra
+
+1. Visual Vocabulary
+2. GenAI Q&A && GenAI Visualization
+
+### Phase 1
+
+* content x 50
+* finish setup workflow
+
+### Phase 2
+
+* content x 100
 
