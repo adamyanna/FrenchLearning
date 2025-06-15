@@ -78,10 +78,91 @@
 ---
 
 ## 0003
-* 
+* Lorsque j'avais six ans. J'ai lu une fois un livre sur la forêt vierge.
+* On disait dans le livre : "Les serpentes boas avalent leur proie tout entière."
+* "Sans la mâcher."
+* J'ai beaucoup réfléchi sur ce sujet.
+* C'est ainsi que j'ai tracé mon premier dessin.
+* J'ai montré mon chef-d'uvre aux grandes personnes.
+* Et je leur ai demandé si mon dessin leur faisait peur.
+* Peur ?
+* Pourquoi un chapeau serait-il peur ?
+* Les grandes personnes !
+* Elles comprennent jamais rein toutes seules.
+* Alors, j'ai tracé un nouveau dessin.
+* Bon, un conseil :Intéresse' toi plutôt au calcul.
+* - À l'histoire.- Et á la grammaire.
+* J'ai suivi leurs conseils.
+* Et j'ai grandi.
+* J'ai oublié ce que c'était d'être un enfant.
+* Jusqu'à ce qu'il se produise une chose miraculeuse.
+* LE PETIT PRINCE
+* J'ai toujours voulu trouver quelqu'un avec qui partager cette histoire.
+* Mais... Je ne sais pas. Je...
+* Je crois que le monde est...
+* Est devenu trop adulte.
 
 ### Vocabulaire
-- 
+- Lorsque
+- lu 
+- une fois
+- un livre
+- sur la
+- forêt vierge
+- On disait
+- serpentes
+- avalent
+- leur
+- proie
+- tout
+- entière
+- mâcher
+- réfléchi
+- sujet
+- C'est ainsi que
+- tracé
+- montré
+- chef-d'oeuvre
+- leur
+- demandé
+- si
+- leur faisait
+- Pourquoi
+- un chapeau
+- serait-il
+- comprennent jamais 
+- rien 
+- toutes seules
+- Alors
+- nouveau
+- Bon
+- Intéresse
+- plutôt
+- au
+- calcul
+- l'histoire
+- grammaire
+- suivi
+- oublié
+- c'était
+- d'être
+- enfant
+- Jusqu'à ce qu'il se 
+- produise
+- une chose 
+- miraculeuse
+- toujours
+- voulu
+- trouver
+- quelqu'un avec qui
+- partager
+- cette
+- histoire
+- Mais
+- crois 
+- le monde
+- Est devenu
+- adulte.
 
 ---
 
